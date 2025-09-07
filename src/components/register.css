@@ -1,0 +1,56 @@
+.regiter-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f0f2f5;
+    font-family: Arial, sans-serif;
+}
+
+.regiter-form {
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 350px;
+}
+
+.register-form-head {
+    text-align: center;
+}
+
+.regiter-inputGroup {
+    margin-bottom: 20px;
+}
+
+.regiter-inputGroup label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+    color: #333;
+}
+
+.regiter-inputGroup input {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.regiter-button {
+    width: 100%;
+    padding: 12px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.regiter-button:hover {
+    background-color: #0056b3;
+}

@@ -1,0 +1,29 @@
+.dashboard-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    height: 100vh;
+    background-color: #edf3fb;
+    font-family: Arial, sans-serif;
+}
+
+.dashboard-head {
+    font-weight: 800;
+    font-size: 48px;
+    text-decoration: underline;
+}
+
+.dashboard-message {
+    font-size: 28px;
+}
+
+.dashboard-button {
+    padding: 12px;
+    background-color: #2063f3;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-size: 12px;
+    cursor: pointer;
+}
