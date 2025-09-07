@@ -1,6 +1,11 @@
 # Getting Started with Create React App
 
+# backend git link : https://github.com/peninsula101/simple-authentication-system-backend
+
+deployed front end link : https://simple-authentication-system-fronte.vercel.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
